@@ -26,7 +26,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 **CIRCUIT DIAGRAM:**
 
 
-
+![Circuit Diagram](WhatsApp Image 2026-03-16 at 10.37.56 AM.jpeg)
 
 **Model graph:**
 
