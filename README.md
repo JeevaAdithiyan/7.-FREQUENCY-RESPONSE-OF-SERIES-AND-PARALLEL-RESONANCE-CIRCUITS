@@ -25,19 +25,24 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1148" height="982" alt="image" src="https://github.com/user-attachments/assets/8e27cbc9-6470-4930-88ad-855f68171b34" />
 
 
 
 **Model graph:**
 
+<img width="604" height="1280" alt="image" src="https://github.com/user-attachments/assets/491f96fa-be1c-4bdf-8304-4d101a9b1703" />
 
 
 
 **TABULATION:**
+<img width="1148" height="797" alt="image" src="https://github.com/user-attachments/assets/3ad183a9-4a84-43fe-aaf6-583403d4e701" />
 
 
 **Calculation:**
 
+<img width="932" height="1280" alt="image" src="https://github.com/user-attachments/assets/9674adf7-f049-4083-a359-481d3ee3edd3" />
+<img width="731" height="1280" alt="image" src="https://github.com/user-attachments/assets/1e4fde7d-f005-49af-abdd-554c2b3fa614" />
 
 
 
@@ -53,6 +58,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
+<img width="929" height="1280" alt="image" src="https://github.com/user-attachments/assets/737928fd-68d8-4549-82af-0aeedce05287" />
 
 **RESULT:**
 
